@@ -1,0 +1,48 @@
+# Ejecuta: docker-compose up -d
+
+version: '3.8'
+
+services:
+  # 1. Contenedor de PostgreSQL
+  postgres-db:
+    image: postgres:15-alpine
+    container_name: backend-postgres
+    ports:
+      - "5432:5432" # Expone el puerto de Postgre a tu localhost
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=1234 # Tu contraseña de appsettings
+      - POSTGRES_DB=segurity
+    volumes:
+      - pgdata:/var/lib/postgresql/data # Guarda los datos
+
+  # 2. Contenedor de SQL Server
+  sqlserver-db:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: backend-sqlserver
+    ports:
+      - "1433:1433" # Expone el puerto de SQL Server a tu localhost
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=tu_Password_Fuerte_123! # SQL Server requiere un password más fuerte
+    volumes:
+      - sqldata:/var/opt/mssql # Guarda los datos
+
+  # 3. Contenedor de MySQL
+  mysql-db:
+    image: mysql:8.0
+    container_name: backend-mysql
+    ports:
+      - "3306:3306" # Expone el puerto de MySQL a tu localhost
+    environment:
+      - MYSQL_ROOT_PASSWORD=tu_password_de_mysql # Tu contraseña de appsettings
+      - MYSQL_DATABASE=segurity_mysql
+    volumes:
+      - mysqldata:/var/lib/mysql # Guarda los datos
+
+# Los "volúmenes" son carpetas en tu máquina donde Docker guarda
+# los datos de la BD para que no se borren al apagar el contenedor.
+volumes:
+  pgdata:
+  sqldata:
+  mysqldata:

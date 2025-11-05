@@ -1,0 +1,11 @@
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Web\bin\Debug\net8.0\Web.exe
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Web\bin\Debug\net8.0\Web.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Web\bin\Debug\net8.0\Business.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Web\bin\Debug\net8.0\Data.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Web\bin\Debug\net8.0\Entity.dll

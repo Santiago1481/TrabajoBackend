@@ -1,0 +1,7 @@
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Diagram\bin\Debug\Diagram.dll.config
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Diagram\bin\Debug\Diagram.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Diagram\bin\Debug\Diagram.pdb
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Diagram\obj\Debug\Diagram.csproj.AssemblyReference.cache
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Diagram\obj\Debug\Diagram.csproj.CoreCompileInputs.cache
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Diagram\obj\Debug\Diagram.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Diagram\obj\Debug\Diagram.pdb
