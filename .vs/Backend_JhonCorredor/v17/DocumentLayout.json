@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6106B3B-9637-483E-84C6-78044DE97DB4}|WebApi\\WebApi.csproj|c:\\users\\alfas\\source\\repos\\backend_jhoncorredor\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B6106B3B-9637-483E-84C6-78044DE97DB4}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6106B3B-9637-483E-84C6-78044DE97DB4}|WebApi\\WebApi.csproj|c:\\users\\alfas\\source\\repos\\backend_jhoncorredor\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6106B3B-9637-483E-84C6-78044DE97DB4}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6106B3B-9637-483E-84C6-78044DE97DB4}|WebApi\\WebApi.csproj|c:\\users\\alfas\\source\\repos\\backend_jhoncorredor\\webapi\\migrationservices\\migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6106B3B-9637-483E-84C6-78044DE97DB4}|WebApi\\WebApi.csproj|solutionrelative:webapi\\migrationservices\\migrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616A2060-07BE-4B77-9E22-152296AA15CA}|Entity\\Entity.csproj|c:\\users\\alfas\\source\\repos\\backend_jhoncorredor\\entity\\context\\sqlserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616A2060-07BE-4B77-9E22-152296AA15CA}|Entity\\Entity.csproj|solutionrelative:entity\\context\\sqlserverdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616A2060-07BE-4B77-9E22-152296AA15CA}|Entity\\Entity.csproj|c:\\users\\alfas\\source\\repos\\backend_jhoncorredor\\entity\\context\\mysqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616A2060-07BE-4B77-9E22-152296AA15CA}|Entity\\Entity.csproj|solutionrelative:entity\\context\\mysqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6106B3B-9637-483E-84C6-78044DE97DB4}|WebApi\\WebApi.csproj|c:\\users\\alfas\\source\\repos\\backend_jhoncorredor\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6106B3B-9637-483E-84C6-78044DE97DB4}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\WebApi\\appsettings.json",
-              "RelativeToolTip": "WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-05T09:50:08.651Z",
+              "DocumentIndex": 1,
+              "Title": "Migrations.cs",
+              "DocumentMoniker": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\WebApi\\MigrationServices\\Migrations.cs",
+              "RelativeDocumentMoniker": "WebApi\\MigrationServices\\Migrations.cs",
+              "ToolTip": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\WebApi\\MigrationServices\\Migrations.cs",
+              "RelativeToolTip": "WebApi\\MigrationServices\\Migrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:00:39.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
               "ToolTip": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\WebApi\\Program.cs",
               "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAG4AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T09:46:10.621Z",
+              "WhenOpened": "2025-11-06T03:59:04.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MySqlDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\Entity\\Context\\MySqlDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Context\\MySqlDbContext.cs",
+              "ToolTip": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\Entity\\Context\\MySqlDbContext.cs",
+              "RelativeToolTip": "Entity\\Context\\MySqlDbContext.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T03:51:13.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlServerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\Entity\\Context\\SqlServerDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Context\\SqlServerDbContext.cs",
+              "ToolTip": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\Entity\\Context\\SqlServerDbContext.cs",
+              "RelativeToolTip": "Entity\\Context\\SqlServerDbContext.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T03:50:39.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T18:45:22.13Z",
               "EditorCaption": ""
             }
           ]

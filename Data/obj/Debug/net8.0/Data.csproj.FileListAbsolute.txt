@@ -13,3 +13,4 @@ C:\Users\alfas\source\repos\Backend_JhonCorredor\Data\obj\Debug\net8.0\Data.dll
 C:\Users\alfas\source\repos\Backend_JhonCorredor\Data\obj\Debug\net8.0\refint\Data.dll
 C:\Users\alfas\source\repos\Backend_JhonCorredor\Data\obj\Debug\net8.0\Data.pdb
 C:\Users\alfas\source\repos\Backend_JhonCorredor\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Data\obj\Debug\net8.0\Data.sourcelink.json

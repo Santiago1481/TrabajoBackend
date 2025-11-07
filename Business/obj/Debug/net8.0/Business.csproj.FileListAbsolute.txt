@@ -15,3 +15,4 @@ C:\Users\alfas\source\repos\Backend_JhonCorredor\Business\obj\Debug\net8.0\Busin
 C:\Users\alfas\source\repos\Backend_JhonCorredor\Business\obj\Debug\net8.0\refint\Business.dll
 C:\Users\alfas\source\repos\Backend_JhonCorredor\Business\obj\Debug\net8.0\Business.pdb
 C:\Users\alfas\source\repos\Backend_JhonCorredor\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Business\obj\Debug\net8.0\Business.sourcelink.json

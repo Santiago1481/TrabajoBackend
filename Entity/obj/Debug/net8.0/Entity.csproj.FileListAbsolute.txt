@@ -12,3 +12,4 @@ C:\Users\alfas\source\repos\Backend_JhonCorredor\Entity\obj\Debug\net8.0\refint\
 C:\Users\alfas\source\repos\Backend_JhonCorredor\Entity\obj\Debug\net8.0\Entity.pdb
 C:\Users\alfas\source\repos\Backend_JhonCorredor\Entity\obj\Debug\net8.0\Entity.genruntimeconfig.cache
 C:\Users\alfas\source\repos\Backend_JhonCorredor\Entity\obj\Debug\net8.0\ref\Entity.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\Entity\obj\Debug\net8.0\Entity.sourcelink.json

@@ -183,3 +183,6 @@ C:\Users\alfas\source\repos\Backend_JhonCorredor\WebApi\obj\Debug\net8.0\refint\
 C:\Users\alfas\source\repos\Backend_JhonCorredor\WebApi\obj\Debug\net8.0\WebApi.pdb
 C:\Users\alfas\source\repos\Backend_JhonCorredor\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 C:\Users\alfas\source\repos\Backend_JhonCorredor\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\WebApi\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\WebApi\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\alfas\source\repos\Backend_JhonCorredor\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json

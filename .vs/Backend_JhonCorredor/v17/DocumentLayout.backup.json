@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\Entity\\Migrations\\20251105093155_AgregandoColumnaActivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\Migrations\\20251105093155_AgregandoColumnaActivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6106B3B-9637-483E-84C6-78044DE97DB4}|WebApi\\WebApi.csproj|c:\\users\\alfas\\source\\repos\\backend_jhoncorredor\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6106B3B-9637-483E-84C6-78044DE97DB4}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20251105093155_AgregandoColumnaActivo.cs",
-              "DocumentMoniker": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\Entity\\Migrations\\20251105093155_AgregandoColumnaActivo.cs",
-              "RelativeDocumentMoniker": "Entity\\Migrations\\20251105093155_AgregandoColumnaActivo.cs",
-              "ToolTip": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\Entity\\Migrations\\20251105093155_AgregandoColumnaActivo.cs",
-              "RelativeToolTip": "Entity\\Migrations\\20251105093155_AgregandoColumnaActivo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T09:31:55.461Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\alfas\\source\\repos\\Backend_JhonCorredor\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T18:45:22.13Z",
               "EditorCaption": ""
             }
           ]
