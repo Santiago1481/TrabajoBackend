@@ -1,0 +1,7 @@
+<label
+  [for]="for()"
+  [class]="'label label-' + size()"
+  [attr.data-required]="required() ? 'true' : null">
+  {{ text() }}
+  <span *ngIf="required()" class="required-indicator">*</span>
+</label>

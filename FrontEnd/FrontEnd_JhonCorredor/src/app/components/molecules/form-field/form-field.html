@@ -1,0 +1,15 @@
+<div class="form-field">
+  <app-label
+    [text]="label()"
+    [required]="required()"
+    [for]="labelId">
+  </app-label>
+  <app-input
+    [type]="type()"
+    [placeholder]="placeholder()"
+    [value]="value()"
+    [required]="required()"
+    [disabled]="disabled()"
+    (valueChange)="valueChange.emit($event)">
+  </app-input>
+</div>

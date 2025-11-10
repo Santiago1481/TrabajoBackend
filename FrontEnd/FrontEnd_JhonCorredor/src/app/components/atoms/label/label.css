@@ -1,0 +1,31 @@
+.label {
+  display: block;
+  font-family: 'Inter', sans-serif;
+  color: var(--selective-yellow);
+  margin-bottom: 8px;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.label:hover {
+  color: var(--orange-web);
+}
+
+.required-indicator {
+  color: var(--sinopia);
+  margin-left: 4px;
+  font-weight: bold;
+}
+
+/* Sizes */
+.label-small {
+  font-size: 0.875rem;
+}
+
+.label-medium {
+  font-size: 1rem;
+}
+
+.label-large {
+  font-size: 1.125rem;
+}

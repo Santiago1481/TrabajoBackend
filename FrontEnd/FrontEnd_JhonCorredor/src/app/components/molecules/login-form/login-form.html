@@ -1,0 +1,25 @@
+<form class="login-form" (ngSubmit)="onSubmit()">
+  <app-form-field
+    label="Correo electrónico"
+    type="email"
+    placeholder="tu@email.com"
+    [required]="true"
+    (valueChange)="onEmailChange($event)">
+  </app-form-field>
+
+  <app-form-field
+    label="Contraseña"
+    type="password"
+    placeholder="Tu contraseña"
+    [required]="true"
+    (valueChange)="onPasswordChange($event)">
+  </app-form-field>
+
+  <app-button
+    label="Iniciar Sesión"
+    type="submit"
+    variant="primary"
+    size="large"
+    [disabled]="isLoading() || !email() || !password()">
+  </app-button>
+</form>
